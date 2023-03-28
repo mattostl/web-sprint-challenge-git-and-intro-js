@@ -252,7 +252,7 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
 //🌟 EXAMPLE of return; ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera"....]
 
 // eslint-disable-next-line no-unexpected-multiline
- ["id" 13,"id" 20, "id"; 2]  [returns] ["Pablo Picaso", "Greg Olsen", "Diego Rivera" ]
+ ["id" `13`,"id" `20`, "id"`2`]  [returns] ["Pablo Picaso", "Greg Olsen", "Diego Rivera" ]
 
 
 
