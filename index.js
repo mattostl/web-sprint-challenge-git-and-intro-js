@@ -253,7 +253,7 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
 //3. Loop over the new array and update each index of the array to equal just the artist's name
 //🌟 EXAMPLE of return; ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera"....]
 
-[listofnames] will return ["Pablo Picaso", "Greg Olsen", "Diego Rivera" ]
+`[listofnames]` `will` `return` ["Pablo Picaso", "Greg Olsen", "Diego Rivera" ]
 
 
 
