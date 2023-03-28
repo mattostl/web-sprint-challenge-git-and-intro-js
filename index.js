@@ -251,8 +251,9 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
 //3. Loop over the new array and update each index of the array to equal just the artist's name
 //🌟 EXAMPLE of return; ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera"....]
 
-// eslint-disable-next-line no-unexpected-multiline
- ["id" `13`,"id" `20`, "id"`2`]  [returns] ["Pablo Picaso", "Greg Olsen", "Diego Rivera" ]
+
+int[] listofNames = {13, 20, 2};
+String artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera";
 
 
 
