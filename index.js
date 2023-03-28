@@ -252,8 +252,10 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
 //🌟 EXAMPLE of return; ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera"....]
 
 
-int[] listofNames = {13, 20, 2};
-String artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera";
+// eslint-disable-next-line no-undef
+listofNames = (13), (20), (2)
+// eslint-disable-next-line no-undef
+artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera"
 
 
 
@@ -265,9 +267,10 @@ String artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera";
 //4. Remove an artist from the copied array at the desired index
 //5. Return the resulting copied array
 //🌟 EXAMPLE; if removeArtist is invoked with the artists array and the number 0, it will return the resulting array with Amedeo Modigliani removed from our dataset. 
-// eslint-disable-next-line no-unexpected-multiline, no-undef
-// eslint-disable-next-line no-undef, no-unexpected-multiline
-(removeArtist) (is)  [invoked] `with` `the` `artists` ,Array(15) `and` `the` `Number` (336), it `will` `return` `the` `resulting` `array` `with` `Pierre-Auguste Renoir`  
+// eslint-disable-next-line no-undef
+myArtists =  "id"; 20
+// eslint-disable-next-line no-undef
+newArray = removeArtistmyArtists, 20;
 
 //🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6; 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 //Use addArtist to do the following; 
