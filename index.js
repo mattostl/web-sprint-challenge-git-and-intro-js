@@ -253,9 +253,9 @@ There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is current
 
 
 // eslint-disable-next-line no-undef
-listofNames = (13), (20), (2)
+//listofNames = (13), (20), (2)
 // eslint-disable-next-line no-undef
-artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera"
+//artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera"
 
 
 
@@ -268,9 +268,9 @@ artistNames = "Pablo Picasso, Greg Olsen, Diego Rivera"
 //5. Return the resulting copied array
 //🌟 EXAMPLE; if removeArtist is invoked with the artists array and the number 0, it will return the resulting array with Amedeo Modigliani removed from our dataset. 
 // eslint-disable-next-line no-undef
-myArtists =  "id"; 20
+//myArtists =  "id"; 20
 // eslint-disable-next-line no-undef
-newArray = removeArtistmyArtists, 20;
+//newArray = removeArtistmyArtists, 20;
 
 //🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6; 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 //Use addArtist to do the following; 
@@ -329,7 +329,7 @@ Use artistByCountry to do the following;
 */
 
 // eslint-disable-next-line no-unexpected-multiline, no-undef
-(InvokingartistByCountry) (artists,Europeon) `will return` [ `Pierre-Auguste Renoir`, `Gustav Klimt`, `Vincent van Gough`]
+//(InvokingartistByCountry) (artists,Europeon) `will return` [ `Pierre-Auguste Renoir`, `Gustav Klimt`, `Vincent van Gough`]
   
   /* ***** END OF TASKS ***** */
   
